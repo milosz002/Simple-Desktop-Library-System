@@ -1,0 +1,302 @@
+.editgrid {
+	margin-top: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 10px;
+}
+.savebutton {
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+.delete_question_label {
+    color: white;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.delete_checkbox {
+    color: white;
+	font-size: 14px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 150px;
+	margin-right: 50px;
+}
+.green_button {
+    color: white;
+	background: green;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 10px;
+	border-radius: 10px;
+}
+.green_button:hover {
+    background: darkgreen;
+}
+
+.green_button:active {
+    background: #000000;
+}
+
+.red_button {
+    color: white;
+	background: red;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 50px;
+	border-radius: 10px;
+}
+.red_button:hover {
+    background: darkred;
+}
+
+.red_button:active {
+    background: #000000;
+}
+
+.menu_blue_button {
+    color: white;
+	background: #3F38EA;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 5px;
+	border-radius: 10px;
+}
+.menu_blue_button:hover {
+    background: darkblue;
+}
+
+.menu_blue_button:active {
+    background: #000000;
+}
+
+.menu_green_button {
+    color: white;
+	background: green;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 10px;
+}
+.menu_green_button:hover {
+    background: darkgreen;
+}
+.menu_green_button:active {
+    background: #000000;
+}
+
+.menu_search_entry {
+    color: white;
+	background: #252525;
+    font-size: 16px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 600px;
+	margin-right: 5px;
+	border-radius: 10px;
+	caret-color: white;
+}
+
+.menu_search_button {
+    color: white;
+	background: #252525;
+    font-size: 16px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 0px;
+	margin-right: 5px;
+	border-radius: 10px;
+}
+.menu_search_button:hover {
+    color: black;
+    background: white;
+}
+.menu_search_button:active {
+    color: white;
+    background: #000000;
+}
+
+.add_edit_entry {
+    color: white;
+	background: #252525;
+    font-size: 16px;
+    font-weight: bold;
+	border-radius: 10px;
+	caret-color: white;
+}
+
+.grid_label_title {
+    background: #C3C3C3;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.grid_label {
+    background: #464646;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.grid_main {
+    background: #252525;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.scrolled_window {
+    background: #252525;
+}
+
+.menu_items_grid {
+    background: #464646;
+}
+
+.black_background{
+    background: #414141;
+}
+
+.add_row_button_add{
+    color: white;
+	background: green;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 207px;
+	margin-right: 5px;
+	border-radius: 10px;
+	padding-right: 60px;
+	padding-left: 60px;
+}
+.add_row_button_add:hover {
+    background: darkgreen;
+}
+.add_row_button_add:active {
+    background: #000000;
+}
+
+.add_row_button_cancel{
+    color: white;
+	background: red;
+    font-size: 16px;
+    font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 5px;
+	padding-right: 60px;
+	padding-left: 60px;
+	border-radius: 10px;
+}
+.add_row_button_cancel:hover {
+    background: darkred;
+}
+.add_row_button_cancel:active {
+    background: #000000;
+}
+
+
+.sidebar_list_box{
+    background: #464646;
+}
+
+.sidebar_list_box_row {
+    color: white;
+	background: #464646;
+    font-size: 16px;
+    font-weight: bold;
+	padding: 15px;
+}
+.sidebar_list_box_row:hover {
+	color: white;
+    background: #252525;
+}
+
+.sidebar_list_box_row_active {
+    color: white;
+	background: blue;
+    font-size: 16px;
+    font-weight: bold;
+	padding: 15px;
+}
+.sidebar_list_box_row_active:hover {
+	color: white;
+    background: darkblue;
+}
+
+.load_file_label{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.load_file_grid{
+    background: #252525;
+}
+
+
+.magazyn_grid_button {
+    color: white;
+	background: #252525;
+    font-size: 16px;
+	border-radius: 10px;
+	margin-left: 5px;
+}
+.magazyn_grid_button:hover {
+    color: black;
+    background: white;
+}
+.magazyn_grid_button:active {
+    color: white;
+    background: #000000;
+}
+
+.edit_green_button {
+    color: white;
+	background: green;
+    font-size: 16px;
+    font-weight: bold;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.edit_green_button:hover {
+    background: darkgreen;
+}
+
+
+
+
